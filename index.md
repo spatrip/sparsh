@@ -3,6 +3,7 @@
 Hi! I'm Sparsh Tripathi 
 Here you can find details about projects that I have worked on and other information about me.
 
+![Image](https://en.wikipedia.org/wiki/Michigan_Wolverines#/media/File:Michigan_Wolverines_logo.svg)
 
 ### Markdown
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://en.wikipedia.org/wiki/Michigan_Wolverines#/media/File:Michigan_Wolverines_logo.svg)
+[Link](url) and [Image](https://en.wikipedia.org/wiki/Michigan_Wolverines#/media/File:Michigan_Wolverines_logo.svg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
